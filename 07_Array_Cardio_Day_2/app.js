@@ -48,3 +48,4 @@ const newComments = [
   ...comments.slice(0, index),
   ...comments.slice(index + 1)
 ]
+
